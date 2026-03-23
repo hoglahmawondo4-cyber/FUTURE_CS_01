@@ -1,10 +1,10 @@
-File type:README.md
-Content:
-Vulnerability Assessment Report: scanme.nmap.org
-Prepared by: [HOGLAH MAWONDO]
-Internship Track: Cyber Security (Future Interns)
-Task ID: FUTURE_CS_01
-Date: March 23, 2026
+# File type:README.md
+# Content:
+# Vulnerability Assessment Report: scanme.nmap.org
+# Prepared by: [HOGLAH MAWONDO]
+# Internship Track: Cyber Security (Future Interns)
+# Task ID: FUTURE_CS_01
+# Date: March 23, 2026
 # 1. Executive Summary
 A comprehensive security scan was performed on the target host scanme.nmap.org (IP: 45.33.32.156) using Nmap. The assessment identified four open services, two of which are running highly outdated software versions containing critical security flaws.
 Overall Risk Rating: HIGH
